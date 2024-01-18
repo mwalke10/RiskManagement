@@ -13,5 +13,13 @@
         "*.properties": "default",
         "*.fragment": "default"
     },
-    "wattFeature.hanaTools.useLocalConnection": true
+    "wattFeature.hanaTools.useLocalConnection": true,
+    "mdk.uieditor": {
+        "left": {
+            "visible": true
+        },
+        "right": {
+            "visible": true
+        }
+    }
 }
